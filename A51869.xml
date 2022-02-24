@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good news to the good women, and to the bad women too that will grow better the like to the men, but here the women are put in the first place, (the which is now out of their place) because this book chiefly treats of the women : shewing what the Scripture saith of the good women, and also what the Scripture saith of the bad women : and for satisfaction to the Jews, herein is proved whose seed it is the serpents head shall bruise.</title>
+            <author>Marsin, M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51869</idno>
+            <idno type="STC">Wing M55</idno>
+            <idno type="STC">ESTC R11287</idno>
+            <idno type="EEBO-CITATION">12331230</idno>
+            <idno type="OCLC">ocm 12331230</idno>
+            <idno type="VID">59681</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51869)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59681)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 640:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good news to the good women, and to the bad women too that will grow better the like to the men, but here the women are put in the first place, (the which is now out of their place) because this book chiefly treats of the women : shewing what the Scripture saith of the good women, and also what the Scripture saith of the bad women : and for satisfaction to the Jews, herein is proved whose seed it is the serpents head shall bruise.</title>
+                  <author>Marsin, M.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by S. Darker ... and at John Gouges ..., and at Elizabeth Degrate's ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. 2.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women in the Bible.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59681:1" rendition="simple:additions"/>
+            <p>GOOD NEVVS TO THE <hi>Good Women,</hi> And to the Bad <hi>Women too that will grow better.</hi> The like to the Men.</p>
+            <p>But here the WOMEN are put in the firſt place, (the which is now out of their place) becauſe this Book chiefly Treats, Of the WOMEN.</p>
+            <p>SHEWING, What the Scripture ſaith of the <hi>Good Women,</hi> and alſo what the Scripture ſaith of the <hi>Bad Women.</hi> And for Satisfaction to the <hi>Jews,</hi> herein is proved whoſe <hi>Seed</hi> it is, <hi>the Serpents Head ſhall bruiſe.</hi>
+            </p>
+            <q>
+               <p>Though the Lord be high, yet hath he reſpect to the Lowly: But the Proud he knoweth affar off,</p>
+               <bibl>
+                  <hi>Pſal. 138, 6.</hi>
+               </bibl>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pro. 16.18.</hi>
+               </bibl>
+               <p>Pride goeth before Deſtruction, and a haughty Spirit before a fall.</p>
+            </q>
+            <p>LONDON Printed and Sold by <hi>S. Darker,</hi> in <hi>Jewen Street</hi> at the Corner of <hi>Bull head-Court,</hi> at the Sign of the <hi>Stationours</hi> Arms, and at <hi>John Gouges</hi> in <hi>Weſt-Minſter Hall</hi> at the Sign of the <hi>Caſtle,</hi> and at <hi>Eliza<g ref="char:EOLhyphen"/>beth Degrate</hi>'s next to the <hi>Fountain Tavern</hi> in the <hi>Strand.</hi> 1700.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:59681:2"/>
+            <head>ADVERTISEMENT.</head>
+            <p>By the ſame Author is Publiſhed a New Book, In which is given the full, clear, and whole Account the Scripture gives of the Deity. It alſo ſheweth where Hell is, and the being of the Heaven of Heavens, be<g ref="char:EOLhyphen"/>fore the Six Days Creation.</p>
+            <p>The Second Edition of Truth Vindicated; the Seed of the Woman, and the Seed of the Serpent Diſtin<g ref="char:EOLhyphen"/>guiſhed; with the Two Sorts of Latter days, and when the Elder People or Nation are to ſerve the Younger. Proved <hi>Eſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u</hi> and <hi>Jacob,</hi> Figures of the two Worlds; with the Explanation of the New Teſtament, and the Signs of the times. Theſe Books bound up tog<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther. Pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The Book of the Figura<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive Speeches, the Chriſti<g ref="char:EOLhyphen"/>an Belief, and the Three Worlds, with the Chief Points, Bound up together, <hi>Price</hi> 2 <hi>s.</hi>
+            </p>
+            <p>By which Books the Scriptures are made Plain, and the Miſtakes removed, as the Word of the Lord may be fulfilled <hi>Dan.</hi> 12 4.7.</p>
+            <p>There is yet to be Printed a Book, to prove that the Jews are not to be called into the Goſpel of the Chriſti<g ref="char:EOLhyphen"/>an Warefare, which is but the Preparation for the Goſ<g ref="char:EOLhyphen"/>pel of Peace <hi>Ephe</hi> 6.15. which is to be Publiſhed by an Angel after the <hi>Meſſiahs</hi> Second coming <hi>Rev.</hi> 14.16.</p>
+            <p>But the Jews when they come to know who their <hi>Meſſiah</hi> is, that Great Prince that ſtandet<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up for them, <hi>Dan.</hi> 9. They are then to Pra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to God as <hi>Daniel</hi> did. That God would do what he had promiſed them, for the Lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds ſake. <hi>Dan.</hi> 9.17. Which Lord is the <hi>Meſiah</hi> or Saviour.</p>
+            <p>There is al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o to be Printed an Explanation upon the Propheſie of Ezekiel from the 33 Chap. to the end of the Book.</p>
+            <p>And the Beaſt in <hi>Daniel,</hi> And the Beaſt in <hi>Revelations,</hi> and the Two Witneſſes. With a Concordance how rightly to divide the Scripture, as to Chriſt firſt and Second coming, without the know<g ref="char:EOLhyphen"/>ledge of which, none can Preach Sound Doctrine; whoſoever will ſet their helping hand to the Preſs will therein do God good Service.</p>
+            <p>This Goſpel of the Chriſtian Warfare, the Chriſtians were but to hold faſt till the Lord comes, <hi>Rev.</hi> 3.11, 12. Who will appear the Second time, to them that look for him, without S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> unto Salvation <hi>Heb.</hi> 9.28. But in this time there was no other Ex<g ref="char:EOLhyphen"/>pel to be received then what was firſt deliver'd.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:59681:2"/>
+            <head>Not the <hi>BLACK RAVEN,</hi> but the <hi>SHE DOVE</hi> brought the glad Tidings of the Earth's Reſtoration from the Deluge or Flood, by her returning again to <hi>Noah</hi> with an Olive-leaf pluckt off; whereby he knew the Waters were a<g ref="char:EOLhyphen"/>bated from off the Face of the Earth, <hi>Gen. 8.11.</hi>
+            </head>
+            <p>AND it is the <hi>female Seed</hi> that had the Promiſe of God, the <hi>Serpent's Head to bruiſe,</hi> Gen. 3.15. And by whoſe <hi>Seed</hi> it is the Earth and World will be reſtored from the <hi>bondage of Corruption,</hi> under which they groan, <hi>Rom</hi> 8.22. For the Lord of Life came of a Maid or Virgin, without Man, <hi>Luke</hi> 1. 26, 27, 34, 35. According as it was by the Prophet fore-told, <hi>Iſa.</hi> 7.13.14. <hi>Hear ye now, O Houſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of</hi> David; <hi>is it a ſmall thing for you to weary men, but will ye weary my God alſo? There<g ref="char:EOLhyphen"/>fore the Lord himſelf ſhall give you a Sign, behold! a Maid or Virgin ſhall conceive and bea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a Son, and ſhall call his Name I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>manuel.</hi> We are here to take notice, That this Son who is called <hi>Imm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nuel,</hi> was given as a Sign to the Houſe of <hi>David,</hi> and not to the King that deſi<g ref="char:EOLhyphen"/>red none. For this Sign was not to be in his Day. And of this <hi>Immanuel,</hi> the Prophet ſaith, verſe 15. <hi>Butter and Honey ſhall he eat, that he may know how to re<g ref="char:EOLhyphen"/>fuſe the Evil, and chooſe the Good.</hi> From which Words is a clear Information, that this Son was to be good: And therefore not as the <hi>Jews</hi> have repreſented him. And for farther Proof, that this Son here ſpoken of, was not to be in that King's days, as the <hi>Jews</hi> imagi<g ref="char:EOLhyphen"/>ned; The words of the Prophet make plain from the 16 verſe. For <hi>before the Ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld ſhall know to refuſe the E<g ref="char:EOLhyphen"/>vil, and chuſe the Good, the La<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d that thou abhorreſt ſhall be forſaken of both her Kings.</hi> This ſeems to be ſpoken of <hi>Aſſyria,</hi> and <hi>Babylon,</hi> becauſe the Prophet ſaith, <hi>the Land which thou abhorreſt.</hi> And both <hi>Aſſyria,</hi> and <hi>Ba<g ref="char:EOLhyphen"/>bylon</hi> were, conquer'd Kingdoms before this Son was born, and ſo forſaken of both her Kings, as well as <hi>Iſ<g ref="char:EOLunhyphen"/>rael</hi>
+               <pb n="4" facs="tcp:59681:3"/>and <hi>Judah</hi> were forſaken of both their Kings be<g ref="char:EOLhyphen"/>fore this Child was born. This is the Son on whom <hi>the Government ſhall be upon bis Shoulder, Iſa.</hi> 9.6. Who, at his firſt coming, was laid as a <hi>Stone of ſtumb<g ref="char:EOLhyphen"/>ling, and for a Rock of offence to both the Houſes of Iſ<g ref="char:EOLhyphen"/>rael,</hi> Iſa. 8.14, 15, 16, 17. Iſa. 28.16, 17. Iſa. 49. 7, 8, 9. Iſa. 53.2, 3, 4 <hi>But Emmanuel, which being interpreted, is God with us,</hi> when he comes the ſecond time he will appear in glory. And <hi>Immanuel</hi>'s Land, <hi>Iſa</hi> 8.8. will then be reſtored. And this <hi>Immanuel,</hi> is the <hi>it,</hi> or one Seed, or he that ſhould <hi>bruiſe the Ser pent</hi>'s Head, and the Earth or World reſtore again to that perfect ſtate, as at the firſt Creation. The which he will accompliſh at the time of the reſtitution of all Things, <hi>Acts</hi> 3.19, 20, 21. <hi>For he will return to Sion, and build again the Tabernacle of</hi> David, <hi>which is fallen,</hi> Acts 15.15, 16. And then the Lord will not only re<g ref="char:EOLhyphen"/>ſtore, but ſecure all his People in that perfect ſtate they were in before the Fall: And then the Puniſh<g ref="char:EOLhyphen"/>ment that Sin brought into the World, will be exclu<g ref="char:EOLhyphen"/>ded from all God's People, ſo as then the Husband will not be above the Wife, nor the Wife above the Hus<g ref="char:EOLhyphen"/>band; but as they were in the firſt Creation, before Sin entred into the World. Ne ther now is there any diſſerence between them in the Lord, <hi>Gal</hi> 3.28. But them that love him beſt are beſt accepted of him. But becauſe Woman was firſt in the Tranſgreſſion, Wo<g ref="char:EOLhyphen"/>men have been laid under ſubjection in this time: But the Lord of Life coming by Woman, he who is the Reconciler between God and his Creature, by him the Women will be deliver'd from that Bondage, which ſome has found intollerable.</p>
+            <p>And in reference or alluſion to this glorious King<g ref="char:EOLhyphen"/>dom, the good Women have all along bore great ſway. For tho' it was ſaid, that <hi>Sarah</hi> obeyed <hi>Ahraham,</hi> yet, as concerning this Kingdom, ſhe commanded: For ſhe ſaid to <hi>Abraham, caſt out this Bond-woman and her Son, for the Son of this Bond-woman ſhall not be Heir with my
+<pb n="5" facs="tcp:59681:3"/>Son, even with</hi> Iſaac. And the thing was very grievous in <hi>Abraham</hi>'s ſight, becauſe of his Son, <hi>Gen.</hi> 21.10.11. Yet notwithſtanding, God ſaid unto him, <hi>in all that Sa<g ref="char:EOLhyphen"/>rah hath ſaid unto thee, hearken unto her Voice,</hi> verſe 12. God could have declared to <hi>Abraham</hi> his Mind and Will as to this thing, without <hi>Sarah</hi> his Wife ſhewing her Authority herein. But that this thing was of God, to ſhew that the Women in the Kingdom which is to come, ſhould be reſtored to that perfect ſtate Wo<g ref="char:EOLhyphen"/>man was in before the Fall.</p>
+            <p>And likewiſe the Church or Spouſe of Chriſt, is al<g ref="char:EOLhyphen"/>ways compared to a Woman, the which, in time to come, will bear ſway above all the <hi>Queens, and Con<g ref="char:EOLhyphen"/>cubins, and V<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rgi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s with<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut number, Cant.</hi> 6.8. <hi>For that Nation and Kingd<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m that will not ſerve thee ſhall pe<g ref="char:EOLhyphen"/>riſh, Iſa</hi> 60.12. Which <hi>thee,</hi> is <hi>Iſrael</hi> in the glorious time: And then it is, that thoſe who afflicted them, ſhall come bending unto them, <hi>and all they that deſpiſed thee, ſhall bow themſelves down at the Soles of thy Feet,</hi> verſe 14. And none can come into the Glory promiſed, that does not in this time come in as the Seed of <hi>Abraham.</hi>
+            </p>
+            <p>And as concerning this Kingdom, alſo <hi>Rebeckah,</hi> af<g ref="char:EOLhyphen"/>ter <hi>Eſau</hi> had ſold to <hi>Jacob</hi> his Brith-right, and ſo he by Purchaſe became the Firſt-born, <hi>Jacob</hi> then by obey<g ref="char:EOLhyphen"/>ing the Voice of his Mother, obtained the Bleſſing, <hi>Gen.</hi> 27.8 28, 29. Unto which is annexed the pro<g ref="char:EOLhyphen"/>miſed Glory. The which is to be made good in time to come, <hi>when the promiſed Land will be their own</hi> ſo as <hi>they ſhall move no more.</hi> 2 <hi>Sam.</hi> 7.10. When they, according to Promiſe, receive it for an <hi>everlaſting Inheritance. Gen.</hi> 17.8. And then it is, <hi>Ja<g ref="char:EOLhyphen"/>phet ſhall dwell in the Tents of Shem,</hi> Gen. 9.27. For the true Believer is to come in with them. And then it is <hi>they ſhall be all taught of God,</hi> Jer. 31.31, 32, 33, 34. And then it is of which the Lord ſaid, <hi>Iſa.</hi> 59.21: <hi>My Spirit that is upon thee, and my words which I have put into thy Mouth, ſhall not depart out of thy Mouth, nor out of the Mouth of thy ſeed, nor out of the Mouth of thy
+<pb n="6" facs="tcp:59681:4"/>ſeeds ſeed, ſaith the Lord from henceforth and forever.</hi>
+            </p>
+            <p>And <hi>Mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iam</hi> the Propheteſs, when <hi>Iſrael</hi> was gotten from under the <hi>Egyptian</hi> Bondage, and thro' the Red Sea, <hi>ſhe took a Timbrel in her hand, and all the Women went out after her, with timbrels and with dances,</hi> Exod. 15.20. in token of Victory. According to which, it will be in time to come, <hi>Jer.</hi> 31.10, 11, 12, 13.</p>
+            <p>And when <hi>Siſera, the chief Captain of the King of Ca<g ref="char:EOLhyphen"/>naan, was with his hoſt to be deſtroyed, whoſe Land was given to Iſrael for an Inheritance;</hi> at the time of this great Conqueſt, <hi>Deborah</hi> the Propheteſs govern'd <hi>Iſrael.</hi> And then it was that <hi>Jael the Wife of Heb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r the Kenite, killed Siſera,</hi> for <hi>Deborah,</hi> had before told <hi>Bar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck</hi> that was to be the Leader of the Army, <hi>that the <g ref="char:V">Ʋ</g>ic<g ref="char:EOLhyphen"/>tory ſhould not be to his Honnour, for the Lord ſhould ſell Siſcra, into the Hand of a Woman,</hi> the which did not make <hi>Barak</hi> refus'd to do the thing, that was reqired of him, and made known to him by <hi>Deborah, and then did the hand of the Children of Iſrael proſper, and prevailed againſt</hi> Jabin <hi>King of Canaan, until they had deſtroyed them.</hi> And of <hi>Siſe<g ref="char:EOLhyphen"/>ra's mighty hoſt, with nine hundred Chariots of I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, there was not one man left,</hi> Judg. 4.4, 9.16 21, 24. Hereby is repre<g ref="char:EOLhyphen"/>ſented <hi>Iſrael</hi>'s Victory in time to come. And likewiſe we are to take notice, That the Goverment and Victory was not given to Woman, until <hi>Iſrael,</hi> by their often tranſgreſſing, <hi>did evil in the ſight of the Lord;</hi> for which he ſold them into the Hand of the King of <hi>Canaan,</hi> verſe 2. <hi>And the Lord wrought their de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iverance,</hi> and his deſtruction, in the time the Wo<g ref="char:EOLhyphen"/>man had the Government; ſo likewiſe when the Lord and his raiſed Saints, and Spouſe doth Rule, then <hi>Iſ<g ref="char:EOLhyphen"/>raels</hi> Enemies will be ſubdu'd, <hi>Iſa.</hi> 60.14.</p>
+            <p>But whreas it is ſaid, <hi>Iſa.</hi> 3.12. <hi>As for my People, Children are their Oppreſſors, and Women rule over them.</hi> Here God by the Prophet muſt have his reference to thoſe Wo<g ref="char:EOLhyphen"/>men that uſurpt Authority over the Men, and were not of his ſetting up. For God ſet up no Woman
+<pb n="7" facs="tcp:59681:4"/>Ruler in <hi>Iſrael</hi> to judge the People, but <hi>Deborah.</hi> Judges 4.4. Of whom the Scripture doth not ſay, ſhe did any thing amiſs. The like of which is not in Scripture, to be found of any King. But in this place God ſpeaks of thoſe women that ſet up themſelves in Authority: Such as <hi>Jezabel, who ſttirred up Ahab to work wickedneſs,</hi> I Kings 21.25. And ſhe ſaid to Ahab, <hi>I will give thee the Vine<g ref="char:EOLhyphen"/>yard of Naboth the Iezreelite,</hi> vers. 7. And by her wicked contrivances, ſhe did accompliſh it. And alſo <hi>Athaliah</hi> the Daughter of <hi>Ahab,</hi> 2 Chron. 21.6. drew King <hi>Je<g ref="char:EOLhyphen"/>horam to walk in the ways of Ahab.</hi> And likewiſe her Son <hi>Ahaziah walked in the ways of Ahab;</hi> for his Mother was his Counſeller to do wickedly. <hi>Chap.</hi> 22.3. And after her Son was Slain by <hi>Jehu,</hi> She then aroſe, and deſtroy<g ref="char:EOLhyphen"/>ed the Seed Royal of the houſe of <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dah.</hi> verſe. 10. And ſet up herſelf to reign by Uſurpation and Murder. And when ſuch Idolatrous women rule, there can be no good Goverment expected.</p>
+            <p>And it was Idolatrous women that drew King <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> to <hi>Worſhip falſe Gods</hi> 1 Kings 11.4. For he ſhould not have taken of the Heathen women to wife, untill they had been brought to the worſhip of the true God; <hi>but he let his heart go out to Idolatrous women, and took to him ſeven hundred Wives, princeſſes, and three hundred Con<g ref="char:EOLhyphen"/>cubins.</hi> Now in that he ſaid, <hi>One Man among a Thou<g ref="char:EOLhyphen"/>ſand have I found, but a Woman among all thoſe have I not found.</hi> Eccle 7 28. And no wonder, that among thoſe Thouſand he found not one good one. And that he ſpake of them Women by whom he was intangled, is farther Evident from his words in the 26. verſe. For he ſaith, <hi>I find more bitter than Death. the Woman whoſe Heart is Snares and Nets, and her hands as bands,</hi> &amp;c. The which he had found by wofull experience, And we of<g ref="char:EOLhyphen"/>ten read and find the good to be drawn away by the bad, but rarely that the bad are drawn by the good. Now without doubt King <hi>Solomon</hi> kept company with the beſt of Men, tho' not with the beſt of Women; and there<g ref="char:EOLhyphen"/>fore no wonder to find <hi>a good Man amongſt a Thouſand.</hi>
+               <pb facs="tcp:59681:5"/>But as King <hi>Solomon</hi> declares againſt evil Women; So he doth as highly extoll the Vertuous and good Wo<g ref="char:EOLhyphen"/>men. <hi>Pro.</hi> 12.4. <hi>Chap.</hi> 11.16.</p>
+            <p>And it was a Woman, <hi>Rahab</hi> by Name, that <hi>received</hi> and <hi>Hid the Spies, that was ſent to view Jericho.</hi> Joſh. 2. 1. <hi>And ſhe believed in the God of Iſrael becauſe of the great Signs and Wond<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs that had been done.</hi> And therefore <hi>She covenanted with the Men which ſhe had hid, for the Sav<g ref="char:EOLhyphen"/>ing of her ſelf, her Houſehould, and Relations.</hi> By which means they were preſerved. And ſhe believing in the <hi>God of Iſrael,</hi> She was afterwards taken to wife into that Line of which the <hi>Meſſias</hi> came. Mat. 1.5.6. Who when his <hi>Enemies are made his Footſtool,</hi> he will take to him<g ref="char:EOLhyphen"/>ſelf his own great Power, and Reign. <hi>Rev.</hi> 11.15, 17.</p>
+            <p>And <hi>Ruth,</hi> for the Love She had to her Mother-in Law, and <hi>Iſraels</hi> God: She forſook her Country, her Kindred, and her Fathers Houſe: And reſolved to cleave with her Mother to the true God. For which ſhe was taken to wife into that Line of which the <hi>Meſſiah</hi> came <hi>Ruth</hi> 1.16. Chap. 4.13.</p>
+            <p>And after the Reign of many wicked Kings in <hi>Judah,</hi> who had ſet up falſe Gods, and worſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ped them; and the Law of the Lord was caſt aſide by them. But when <hi>Hilkiah</hi> the Prieſt found the book of the Law of the Lord, he ſent it to the Good King <hi>Joſiah;</hi> who when he heard the Words of the Law, and the threatned Puniſhments which God had pronounced againſt thoſe Sins which his Predeceſſors had committed in that Place, He rent his cloaths. And at the time of this good King, and good high Prieſt; <hi>Huldah</hi> the wife of <hi>Shallum,</hi> was Propheteſs, and the good and humble King did not diſdain to enquire of the Word of the Lord by Her; and the humility of the good High Prieſt was ſuch, that he went unto her, 2 <hi>Chron.</hi> 34.14, 19, 22. to underſtand the mind of the Lord, tho he was the high Prieſt of Gods ſetting up. And with the high Prieſt was the <hi>Ephod,</hi> with the Breaſt-plate, in which was the <hi>
+                  <g ref="char:V">Ʋ</g>rim</hi> and <hi>Thummim, Exod.</hi> 28.28, 30. And the High
+<pb n="9" facs="tcp:59681:5"/>Prieſt might have ſaid, I will rather enquire of the Lord by the <hi>Ephod,</hi> by which the Lord doth anſwer the <hi>High Prieſt.</hi> 1 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>am. 23.9, 10, 11, 12, than go to a woman to know the mind of the Lord. But his humility was ſuch as to deſire the knowledg of the Word of the Lord; let the Lord declare his Mind by whom he pleaſes. And now, tho' there is no Prophets nor Propheteſſes as was for<g ref="char:EOLhyphen"/>merly, yet by whomſoever God makes the Scriptures to agree, it is viſibly evident the Lord muſt be aſſiſting therein; ſeeing no Mortal of themſelves could do it; Since by men they have been ſet at an unreconcileable difference. The beaſt deſiring to <hi>charge Times and Laws; and it was given into his Hands untill a time, and times, and the dividing of time, Dan.</hi> 7.25. By which we have loſt the right Sentiments of the Word, and of the World to come; By which means the Scrip<g ref="char:EOLhyphen"/>tures are made to contradict themſelves: So as thereby the Sheep of <hi>Chriſt Eat that which others have trodden, and Drink that which others have ſouled with their Feet, Ezek.</hi> 34.19. But by whomſoever the Lord ſhall make the Scriptures to agree, whether by Man or Woman; Man is bound to acknowledg it, and to own the whole Truth, without they will for the ſake of by-ends be found in wilful Rebellion againſt God, and thereby draw the threatned Judgments upon them<g ref="char:EOLhyphen"/>ſelves; which otherwiſe they might eſcape: And man by the Apoſtaſy having laid the World in darkneſs, therefore God accordingly brings forth the whole Truth another way.</p>
+            <p>Now <hi>Moſes</hi> did propheſy to the Time of this King<g ref="char:EOLhyphen"/>dom that is yet to come. For he propheſied of the Vine, whoſe Grapes are Gall, and Cluſters Bitter. For which their Foot ſhall Slide in due time, from the greatneſs and Grandeur they are in, when the Lord doth <hi>Wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t his Glittering Sword, and his hand take hold of Judgment. And then it is the Lord will reſtore his People, and cauſe the Nations to rejoyce with them, Deu.</hi> 32.32, 35, 41, 42, 43. This Song gives an account of
+<pb n="10" facs="tcp:59681:6"/>
+               <hi>Iſrael's</hi> being brought into the Land of <hi>Canaan;</hi> their waxing fat, and kicking therein: their being caſt out of their Land, their being moved to Jealouſy, and pro<g ref="char:EOLhyphen"/>voked to Anger by a fooliſh Nation. They were moved to Jealouſy, becauſe the Heathen were brought in to be the Vine of the Earth at the <hi>Meſſiahs</hi> firſt coming; and they were provoked to Anger by a fooliſh Nation; for the <hi>Romans</hi> took their Country, and de<g ref="char:EOLhyphen"/>ſtroyed their Cities and Temple. And the <hi>Romans</hi> were term'd a fooliſh Nation becauſe, when they had embraced the Faith, they ſoon let go the Truth.</p>
+            <p>Now <hi>Moſes</hi> propheſied of this time, and of the day of Judgment; but <hi>Hannah</hi> was ſhe that firſt propheſied what ſhould be done in the Kingdom or World that is to come. <hi>That God will raiſe the Poor out of the Du<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, and lift up the Begger from the Dunghill; to ſet them among Princes, and to make them inherit the Throne of his Glory,</hi> 1 Sam. 2.8. according as in <hi>Pſal.</hi> 113.4, 5, 6, 7 8. And though the Lord be high, yet hath he <hi>reſpect unto the Lowly,</hi> but the <hi>Proud he knoweth affar off,</hi> Pſal. 138, 6. <hi>And before deſtruction, the Heart of Man is Haughty, and before Honour, is Humi<g ref="char:EOLhyphen"/>lity, Pro.</hi> 18.12.</p>
+            <p>And in this time it was, the Women <hi>Midwives</hi> that ſaved all the Male Children of the <hi>Hebrews</hi> alive, when <hi>Pharaoh,</hi> through Self-intereſt, Pride, and Cruelty, ordered them to be deſtroyed. For which the Lord rewarded the Midwives, <hi>Exod.</hi> 2.15, 16, 17, 18, 19, 20, 21, 22. And it was <hi>Pharaohs</hi> Daughter, who brought up <hi>Moſes</hi> as her Son, And he was the Type of the true <hi>Meſſiah.</hi> And for <hi>Pharaohs</hi> Wickedneſs and Cruel<g ref="char:EOLhyphen"/>ty, God hardened him in Unbelief of his Power, ſo as he followed <hi>Iſrael</hi> into the Red Sea, in which he and his Hoſt were overthrown, <hi>Exod.</hi> 14.28.</p>
+            <p>And when <hi>Chriſt</hi> came into the World to ſuffer, he did not only come of a Woman, but the knowledg of his coming, firſt came amongſt the Women. For the bleſſed Virgin went and acquainted her Cozin <hi>Elizabeth</hi>
+               <pb n="11" facs="tcp:59681:6"/>with the Glad tidings; who upon the hearing of the Sound of her Salutation, <hi>was filled with the Holy Ghoſt,</hi> Luke 1.41. We are here likewiſe to take notice, that Women were firſt ſaid to be filled with the Holy Ghoſt. And the Bleſſed Virgin ſaid, <hi>He that is mighty, bath done to me great things, and holy is his Name. For behold from hence forth, all Generations ſhould call her bleſſed,</hi> Luke. 1.48, 49</p>
+            <p>And it was <hi>Anna</hi> the Propheteſs publiſhed in the Temple Chriſt's firſt coming, to all them that looked for Redemption in <hi>Jeruſalem,</hi> Luke 2.38.</p>
+            <p>And it likewiſe was a Woman that anointed <hi>Chriſt's</hi> head with the precious Ointment, at which ſome mur<g ref="char:EOLhyphen"/>mured, the Ointment being of ſuch Value <hi>Mark</hi> 14.3, 5.</p>
+            <p>And it was a Woman that waſhed the Lords Feet with her Tears, and wiped them with the Hair of her Head, and anointed them with Ointment, <hi>Luke</hi> 7.38.</p>
+            <p>And it was Women that did Miniſter to <hi>Chriſt</hi> of their Subſtance, <hi>Luke.</hi> 8.2.</p>
+            <p>And a Woman of the Gentiles, a <hi>Samaritan,</hi> the Lord Chriſt declared himſelf to, and ſhe made him known to the Men of <hi>Samaria;</hi> and brought them to Chriſt, <hi>John</hi> 4.26, 28, 29, 30, 39, 40, 41, 42.</p>
+            <p>And at the time of Chriſt's Sufferings, the Daughters of <hi>Jeruſalem</hi> wept for him, <hi>Luke,</hi> 23.28. But the Sons of <hi>Jeruſalem,</hi> cryed, <hi>Crucifie him, Crucifie him,</hi> Verſe 21. And <hi>Herod with his Men of War, ſit him at nought, and mocked him.</hi> Verſe 11.</p>
+            <p>But the Women that followed <hi>Chriſt,</hi> ſtood be<g ref="char:EOLhyphen"/>holding him all the time of his Crucifixion, <hi>Mark.</hi> 15.40 41. <hi>Luke.</hi> 23.49. When all his Diſciples forſook him and fled. <hi>Matt.</hi> 26.56.</p>
+            <p>And it was the Women that was firſt at the Sepul<g ref="char:EOLhyphen"/>chre, where the Body of the Lord, was laid, early in the Morning, when it was yet Dark, <hi>John</hi> 20.1. <hi>Matt.</hi> 28.1. And So by their Love and Diligence, they got the firſt
+<pb n="12" facs="tcp:59681:7"/>ſight of the Lord after he aroſe, And the Lord ſent them to be the firſt publiſhers of the Reſurrection to his Diſciples. <hi>Matt.</hi> 28.10.</p>
+            <p>And it was the Women of <hi>Macedonia,</hi> who firſt embraced the Faith in that Place. For a Viſion appeared to <hi>Paul</hi> in the Night: There ſtood a Man of <hi>Macedonia, and prayed him, ſaying, come over into Macedo<g ref="char:EOLhyphen"/>nia and help us.</hi> Acts 16 9. Which accordingly he did. And he, and they that accompanied him thither, were <hi>in that City abiding certain Days, Verſe</hi> 12. In which time it doth evidently appear, they had gotten to them<g ref="char:EOLhyphen"/>ſelves Hearers. For it is ſaid in the 13. <hi>Verſe. On the Sabbath Day we went out of the City by a River ſide, where Prayer was wont to be made.</hi> A place choſen Sutable to their purpoſe: that thoſe that embraced the Faith, might there be Baptized. And we are to take Notice, that it was the Women that met there; For <hi>St. Paul</hi> ſaith, <hi>We Sat down, and ſpake unto the Women which reſorted thither. But the Men of the City roſe up a<g ref="char:EOLhyphen"/>gainſt them, And the Magiſtrates rent off their clothes, and commanded to beat them, and when they had laid many Stripes upon them, they caſt them into Priſon, Charging the Jaylor to keep them ſafely.</hi> Verſe 22, 23. At which time the <hi>Jaylor and all his were convicted, and baptized.</hi> Verſe 30 31, 33. And <hi>Lidia</hi> was a Succourer of them, both before and after their impriſonment, Verſe 15, 40.</p>
+            <p>And it was the men that pretended to be knowing in the Scriptures, that withſtood the Apoſtles Doctrine and ſtir'd up the devout and Honourable Women, and the chief Men of the City, <hi>Acts</hi> 13 50. againſt St. <hi>Paul</hi> for declaring the Truth. And of the <hi>Greeks</hi> it is ſaid, <hi>That the Honnourable Women Believed,</hi> Acts. 17.12. where by it is ſignifiyed that there was not many honourable Men that did there believe, becauſe there is no mention made of them.</p>
+            <p>And that God, who for <hi>Abrabaws</hi> Love and Obedi<g ref="char:EOLhyphen"/>ence to him, became his exceeding great reward: So that for <hi>Abrahams</hi> ſake, all the great Bleſſings promiſed
+<pb n="13" facs="tcp:59681:7"/>are to come upon <hi>him and his Seed</hi> in time to come, <hi>Gen,</hi> 12.2, 3. <hi>Chap.</hi> 15. 1. <hi>Chap.</hi> 22.15, 16, 17, 18. So the Lord will not let the Love of the Women paſs unre<g ref="char:EOLhyphen"/>garded by him. Who hath promiſed, <hi>that thoſe that Love him, ſhould be Beloved of him,</hi> Pro. 8.17. John. 14.21.</p>
+            <p>And the <hi>Meſſiah</hi> being the ſeed of the Woman, ſo as Women with the Tribe of Judah may ſay, 2 <hi>Sam</hi> 19.42. The King, the Lord Chriſt, is near of Kin to us, therefore let us prepare, and wait and pray for his return, that we may be found ready for the <hi>Bridegroom of our Souls.</hi> When, as for them that will not prepare, of his Supper they ſhall <hi>not have any ſhare,</hi> Luke 14.24. For of ſuch, the Lord ſaith, They ſhall not taſt of his Supper.</p>
+            <p>And of Woman came <hi>the chief Corner ſtone:</hi> And by Man has been loſt the right knowledg both of Chriſt's Kingdom and Throne. Therefore God ſaw good, that from his Word, Woman ſhould conceive aright how to bring the true knowledg of both again to light. And as <hi>Zerubabel</hi> laid the Foundaaion Stone, <hi>ſo his hands finiſhed it, Zech.</hi> 4.7.9 And accordingly <hi>Zerubbabel</hi> truth to Woman doth Joyn 1 <hi>Eſd.</hi> 4.13. be<g ref="char:EOLhyphen"/>cauſe ſhe was to bring to light, that truth which Man had declin'd.</p>
+            <p>And that God that cauſed a Woman, <hi>Anna</hi> by Name, to declare in the Temple <hi>the Coming of Chriſt to all them that looked for Redemption in Jeruſalem,</hi> Luke 2.38. When the <hi>Scribes and Phariſees underſtod it not.</hi> There<g ref="char:EOLhyphen"/>fore no wonder that God ſhould now again bring to light the truth of that Doctrine, which Man did firſt Slight.</p>
+            <p>Now whereas St. <hi>Paul</hi> ſaith, 1. <hi>Cor.</hi> 14.34. <hi>Let your Women keep Silence in the Church, for it is not permitted un<g ref="char:EOLhyphen"/>to them to ſpeak,</hi> Verſe 35. And if they will learn any thing, <hi>Let them aſk their Huſbands at home.</hi> Theſe words of St. <hi>Paul</hi> could have no general reference. For many of the Women did embrace the Faith before their
+<pb n="14" facs="tcp:59681:8"/>Husbands. As thoſe of <hi>Macedonia</hi> did. So as had they been to ask their Husbands at home; it had been the ready way to have turned them to have been Inſidels again. But St <hi>Paul</hi> wrot this to the Church of <hi>Co<g ref="char:EOLhyphen"/>rinth,</hi> where without doubt, he found the Men more in<g ref="char:EOLhyphen"/>duſtrious to underſtand the Truth: and that the Wo<g ref="char:EOLhyphen"/>men might be too troubleſome to them, by asking them too many impertinent Queſtions, in the Church or pub<g ref="char:EOLhyphen"/>lick Meetings. Therefore he ſaith, <hi>Let your Women keep Silence in the Church, for it is not permitted unto them to ſpeak, but to ask their Husbands at home.</hi>
+            </p>
+            <p>And whereas St. <hi>Paul</hi> ſaith, 1 <hi>Tim.</hi> 2.12. <hi>I ſuffer not a Woman to teach.</hi> Thereby ſhewing he ſpake this from himſelf. And if it is to be taken as here expreſt, the which I cannot ſo underſtand him, becauſe then he con<g ref="char:EOLhyphen"/>tradicts himſelf: and alſo it not being agreeable to the reſt of the Scriptures, therefore of no force. And he deſires the Churches to be <hi>Followers of him, even as he is of Chriſt,</hi> 1 Cor. 11 1. But the Churches are to follow none, but as they follow Chriſt. But Chriſt gave no ſuch Command as this of St. <hi>Paul,</hi> but left other Exam<g ref="char:EOLhyphen"/>ples, as I have before cited. And in St <hi>Pauls</hi> time one Man had Four Daughters, Virgins, which did Prophe<g ref="char:EOLhyphen"/>ſie, <hi>Acts</hi> 21.9. And were they not to ſpeak in the Church, which then were in the Believers Houſes: to whom were they then to declare their Propheſies to? And the Women were to inſtruct and teach their Chil<g ref="char:EOLhyphen"/>dren, and Neighbours and acquaintance in the Truth, And St. <hi>Paul</hi> ſaith, <hi>The Elder Women ſhould teach the Younger Women,</hi> Titus 2.3, 4.5. And their Hus<g ref="char:EOLhyphen"/>bands too, no doubt, if they were Ignorant in the Faith.</p>
+            <p>And <hi>Timothy</hi> knew the Holy Scriptures from a Child, being taught by his <hi>Mother and Grand-Mother,</hi> 2 Tim. 1. 5. Chap. 3.15. And <hi>Aquila,</hi> and <hi>Priſcilla</hi> took the learned <hi>Apollo</hi> to their Houſe, Who is ſaid to be <hi>Mighty in the Scriptures;</hi> him they took and inſtructed in the <hi>way of God more perfectly,</hi> Acts 18.24, 26. And St. <hi>Paul</hi> ſaith, <hi>Priſcilla and Aquila were his helpers in
+<pb n="15" facs="tcp:59681:8"/>Chriſt Jeſus</hi> Rom. 16.3. And in that <hi>Priſcilla</hi> is put foremoſt it doth ſignifie ſhe was the better inſtructer of the two. And likewiſe the ſame Apoſtle wrote to his <hi>Yoke-fellow to help thoſe Women which labored with him in the Goſpel,</hi> Phil 4.3. Whereby it doth plainly appear they were to inſtruct and teach the People, tho' not in the great publick aſſemblies or Synagogues, as the men were, neither were they ſent, but to them that had before em<g ref="char:EOLhyphen"/>braced the Faith; that they might further inſtruct them therein. For if they had been ſent to others, they might thereby have been Slandered, and ſo brought a Scandal upon Religion. Thus we ſee, by laying the Writings of St. <hi>Paul</hi> together, we may underſtand his meaning, which, if we take them, not conſidering how they were ſpoken, then they are plain Contradictions as we here ſee.</p>
+            <p>Now one Woman being firſt in the Tranſgreſſion, was the cauſe that God laid Women under Sub<g ref="char:EOLhyphen"/>jection in this time, and Pain in Childbearing. And hath given the Men the ruling Power in Church and State, and in their own Families: Now that Judg that hath been ſo ſevere on the Womans ſide, is near at the door to call Men to an account how they have ruled in Church and State, and in their own Families, and what good example they have ſhewed, Therefore it is beſt for them to conſider, and <hi>order their Converſation a right,</hi> be<g ref="char:EOLhyphen"/>fore it is too late, that they may not be reckoned as part of that <hi>Vine that will be trod without the City, when the Lord comes.</hi> Rev. 19 15. <hi>Chap.</hi> 14.18, 19, 20.</p>
+            <p>
+               <hi>Eve</hi> was <hi>beguiled</hi> thro the <hi>Serpents Subtilty,</hi> 2 Cor. 11.3. And did not willingly <hi>betray</hi> her <hi>Husband,</hi> for <hi>She gave him of the Fruit,</hi> before ſhe had found the evil effects thereof, But Men who were intruſted with the word for themſelves and their Poſterities, and they by their chang<g ref="char:EOLhyphen"/>ing Times and Laws, <hi>Dan.</hi> 7.25. <hi>and Eating the good Poſtures, and in treading down the reſidue of the Poſtures, and fouling the deep waters,</hi> Eze. 34.18, 19, 20. <hi>And hid<g ref="char:EOLhyphen"/>ing the Talent,</hi> Matt. 25.18. of the Word, which was
+<pb n="16" facs="tcp:59681:9"/>left to mankind to improve their time thereby, the which man by his <hi>turning things upſide down</hi> Iſa 29.16. <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <hi>World in Darkneſs,</hi> and <hi>made Merchandize of the Souls of the People,</hi> Rev. 18.13. For which God hath declared,<hi>That the Prophets, the rulers, the S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers hath he covered, and the viſion of all is become, as a book that is Sealed,</hi> Iſa. 29.10, 11. And the Apoſtle ſaith, <hi>God hath choſen the weak things of the World, to confound the things which are Mighty.</hi> 1 Cor. 1.27. Iſa. 44.25. From which it is plain, that the whole truth of Gods word was not to be brought to light on that ſide by which it was firſt loſt. <hi>And for thoſe that will not read nor conſider becauſe they will not underſtand, it is wilfull Ignorance, and willfull ignorance is like to willfull Rebellion,</hi> and that man that will perſiſt to ſet up his Wiſdom aboue Gods word, ſhall certainly fall thereby, for none is to <hi>add unto it nor diminiſh from it,</hi> De<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 4.2. <hi>Rev.</hi> 22.16. Num. 12.8. and all that would not be Sharers of Gods Wrath, ſhould declare the whole truth, when God again brings the true meaning of his Word to Light. But how ready is Man in Religion to differ with one a<g ref="char:EOLhyphen"/>nother for trifles, becauſe Intereſt lies at the bottom. But when all Men are found in Miſtakes, as to the great part of their Fundamentals, then the Generality of all Parties, is willing to Smother it, by reaſon they think it not to ſute with their intereſt; but what <hi>advan<g ref="char:EOLhyphen"/>tageth it for a Man to gain the whole World, and loſe his own Soul,</hi> Matt. 16 26. But it is want of a belief in the truth, which makes many ſo regardleſs, and unwill<g ref="char:EOLhyphen"/>ing to deny themſelves the Injoyments of this World, for the hopes of that of a better. And others think<g ref="char:EOLhyphen"/>ing to put off all, to, A Lord have mercy on them at the laſt. Whereby multitudes will find themſelves miſera<g ref="char:EOLhyphen"/>bly deceived. Therefore let every thinking Soul, break off their Sins by Working righteouſneſs; and ſuch as are Rich ſhew mercy to the Poor, 1 <hi>Tim,</hi> 6.17, 18, 19. And Labour to attain to the true knowledg, and Love of God; And the Pati<g ref="char:EOLhyphen"/>ent waiting for of Chriſt, knowing that our Labour will not be in vain in the Lord, 1 <hi>Cor.</hi> 15.58.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
